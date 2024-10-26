@@ -1,0 +1,159 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -321747449, guid: cd75c7ee0fd76fb4195cca947d45f5a6, type: 3}
+  m_Name: PoolDataHolder
+  m_EditorClassIdentifier: 
+  PoolDataList:
+  - KeyID: 50
+    DefaultCapacity: 1
+    PreWarm: 1
+    AssetReference:
+      m_AssetGUID: 5f88d0cae62f5fc49a391006e8d042ed
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - KeyID: 100
+    DefaultCapacity: 1
+    PreWarm: 1
+    AssetReference:
+      m_AssetGUID: 879ea0db2ff6b7647b8658894fc4d1c5
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - KeyID: 101
+    DefaultCapacity: 1
+    PreWarm: 1
+    AssetReference:
+      m_AssetGUID: eba49fe1687b9e3418f99e9889e75a9f
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - KeyID: 102
+    DefaultCapacity: 1
+    PreWarm: 1
+    AssetReference:
+      m_AssetGUID: 9630cfa6367029c439cdb5ad360a393c
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - KeyID: 103
+    DefaultCapacity: 1
+    PreWarm: 1
+    AssetReference:
+      m_AssetGUID: d8fb1a19fa104bc438a519d9db3ae11a
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - KeyID: 104
+    DefaultCapacity: 1
+    PreWarm: 1
+    AssetReference:
+      m_AssetGUID: 9c86e2da90f871446b089746905efb8a
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - KeyID: 105
+    DefaultCapacity: 1
+    PreWarm: 1
+    AssetReference:
+      m_AssetGUID: 4058c0cb81e6c9c46ab6df2a4c616d92
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - KeyID: 150
+    DefaultCapacity: 2
+    PreWarm: 1
+    AssetReference:
+      m_AssetGUID: 3f72984ebf8414fe59a9c770b720fbfd
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - KeyID: 151
+    DefaultCapacity: 2
+    PreWarm: 1
+    AssetReference:
+      m_AssetGUID: 351203dffa3f8af45a69036838e14228
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - KeyID: 152
+    DefaultCapacity: 2
+    PreWarm: 1
+    AssetReference:
+      m_AssetGUID: d56e6faace369604796f6e1f4e1afd50
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - KeyID: 500
+    DefaultCapacity: 1
+    PreWarm: 1
+    AssetReference:
+      m_AssetGUID: d5e9efccc960a374ea6a7195c8bf221f
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - KeyID: 600
+    DefaultCapacity: 5
+    PreWarm: 1
+    AssetReference:
+      m_AssetGUID: e40edd36ffbfc5648906f783fae61b03
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - KeyID: 601
+    DefaultCapacity: 20
+    PreWarm: 1
+    AssetReference:
+      m_AssetGUID: 1461ced7cb723f448a1157e9f8b5b443
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - KeyID: 602
+    DefaultCapacity: 100
+    PreWarm: 1
+    AssetReference:
+      m_AssetGUID: ae8e106b92d9bb54ab5b110fe93e2c59
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - KeyID: 603
+    DefaultCapacity: 100
+    PreWarm: 1
+    AssetReference:
+      m_AssetGUID: dc193a71d9d17b648b1c02e293635044
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - KeyID: 1000
+    DefaultCapacity: 1
+    PreWarm: 1
+    AssetReference:
+      m_AssetGUID: 9df9cc870b53ece4c8757da41ba964cb
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - KeyID: 1001
+    DefaultCapacity: 1
+    PreWarm: 1
+    AssetReference:
+      m_AssetGUID: ae71e011da7781c46aeb84e3753bf5bf
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - KeyID: 1002
+    DefaultCapacity: 1
+    PreWarm: 1
+    AssetReference:
+      m_AssetGUID: 3bdcbe04b2ada51489735fd479259968
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0

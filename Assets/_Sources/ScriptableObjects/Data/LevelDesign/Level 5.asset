@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fabf3aa7340948459fa0a62df2d1ea8, type: 3}
+  m_Name: Level 5
+  m_EditorClassIdentifier: 
+  BoardDesigns:
+  - BoardType: 0
+    Elevation: 7
+    Width: 9
+    Height: 12
+    TilePositions:
+    - {x: 0, y: 3, z: 0}
+    - {x: 0, y: 4, z: 0}
+    - {x: 0, y: 5, z: 0}
+    - {x: 0, y: 3, z: 1}
+    - {x: 0, y: 4, z: 1}
+    - {x: 0, y: 5, z: 1}
+    - {x: 1, y: 4, z: 2}
+    - {x: 1, y: 5, z: 2}
+    - {x: 1, y: 6, z: 2}
+    - {x: 1, y: 4, z: 3}
+    - {x: 1, y: 5, z: 3}
+    - {x: 1, y: 6, z: 3}
+    - {x: 2, y: 4, z: 4}
+    - {x: 2, y: 5, z: 4}
+    - {x: 2, y: 6, z: 4}
+    - {x: 2, y: 3, z: 5}
+    - {x: 2, y: 4, z: 5}
+    - {x: 2, y: 5, z: 5}
+    - {x: 3, y: 3, z: 6}
+    - {x: 3, y: 4, z: 6}
+    - {x: 3, y: 5, z: 6}
+    - {x: 6, y: 3, z: 0}
+    - {x: 6, y: 4, z: 0}
+    - {x: 6, y: 5, z: 0}
+    - {x: 5, y: 2, z: 1}
+    - {x: 5, y: 3, z: 1}
+    - {x: 5, y: 4, z: 1}
+    - {x: 5, y: 2, z: 2}
+    - {x: 5, y: 3, z: 2}
+    - {x: 5, y: 4, z: 2}
+    - {x: 4, y: 2, z: 3}
+    - {x: 4, y: 3, z: 3}
+    - {x: 4, y: 4, z: 3}
+    - {x: 4, y: 3, z: 4}
+    - {x: 4, y: 4, z: 4}
+    - {x: 4, y: 5, z: 4}
+    RandomTileCountMin: 0
+    RandomTileCountMax: 0
+    Position: {x: -3, y: -1, z: 0}
+    StackDirection: {x: 0, y: 1, z: 0}
+  - BoardType: 1
+    Elevation: 9
+    Width: 1
+    Height: 1
+    TilePositions: []
+    RandomTileCountMin: 0
+    RandomTileCountMax: 0
+    Position: {x: -3, y: -1, z: 0}
+    StackDirection: {x: 0, y: -1, z: 0}
+  - BoardType: 1
+    Elevation: 9
+    Width: 1
+    Height: 1
+    TilePositions: []
+    RandomTileCountMin: 0
+    RandomTileCountMax: 0
+    Position: {x: -1.5, y: -1.5, z: 0}
+    StackDirection: {x: 1, y: 0, z: 0}
+  - BoardType: 1
+    Elevation: 9
+    Width: 1
+    Height: 1
+    TilePositions: []
+    RandomTileCountMin: 0
+    RandomTileCountMax: 0
+    Position: {x: 1.5, y: -1.5, z: 0}
+    StackDirection: {x: -1, y: 0, z: 0}
+  - BoardType: 1
+    Elevation: 9
+    Width: 1
+    Height: 1
+    TilePositions: []
+    RandomTileCountMin: 0
+    RandomTileCountMax: 0
+    Position: {x: 3, y: -1, z: 0}
+    StackDirection: {x: 0, y: -1, z: 0}

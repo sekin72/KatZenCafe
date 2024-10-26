@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: CFGameClient
+  m_EditorClassIdentifier: 
+  m_GroupName: CFGameClient
+  m_Data:
+    m_SerializedData: []
+  m_GUID: e4e418d763c3ab04c94fe4d303468c93
+  m_SerializeEntries:
+  - m_GUID: b030ec1b42078564cafc55421e6343a3
+    m_Address: SceneReferencesHolder
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fc093d5a05ab2ad4e8d9ca12a9206ca2
+    m_Address: SoundsList
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 439b1d0429656174c8a5533eaaa8e1c5
+    m_Address: PoolDataHolder
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2ce9df72771ff5d4cab2048165ac74e9
+    m_Address: SystemsCollection
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 7fc1cb6c430fd2b49939501a9bcb9d93, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: f8d3c757287ee7144bc8e290604ab477, type: 2}
+    - {fileID: 11400000, guid: 93ec79b4cc75c2d49aa053193b19fbf0, type: 2}

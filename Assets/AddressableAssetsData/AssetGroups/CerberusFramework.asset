@@ -1,0 +1,205 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: CerberusFramework
+  m_EditorClassIdentifier: 
+  m_GroupName: CerberusFramework
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 1bcc5b1d7c50a8c4e83b4ad1a41aa7bb
+  m_SerializeEntries:
+  - m_GUID: d33748ef8e0d43546b789613a8ca2a05
+    m_Address: Canvas
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2b6e8fcc083524d41989a6baa5dddbc0
+    m_Address: CFButton
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7b166c7077d9b784a93e94163dbbe098
+    m_Address: CFText
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b0299f9b62bd4254e8ba041031521250
+    m_Address: CFToggle
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d59906a09e68fc247936f076eea5434e
+    m_Address: CloseButton Variant
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 02905a0f6765c474cbcf0dff4d9c7bf1
+    m_Address: Darkinator
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 682df85de1c1f2d4e9091774b028ed43
+    m_Address: SafeArea
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 879ea0db2ff6b7647b8658894fc4d1c5
+    m_Address: LoadingPopup
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ea603a214b96f8b47ad3a39bfa3295d6
+    m_Address: OneButtonTemplatePopup
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d8fb1a19fa104bc438a519d9db3ae11a
+    m_Address: SettingsPopup
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5f88d0cae62f5fc49a391006e8d042ed
+    m_Address: SoundController
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2229971caa96160469999a61661976e7
+    m_Address: CFDemo
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dd11f5f3c8e83bf4f8f1946c7e2cd3a6
+    m_Address: CFDemoScroll
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1416d19a4625b6e4abefe8f3b114c9b2
+    m_Address: DemoPanel
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6d4c9d77443d78b44acfbf8c38421955
+    m_Address: RootLifetimeScope
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b11e2c8884928784dad7d5c3f24457c2
+    m_Address: Button01_BtnText_Blue
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a68569a02444ca84ba8b675464ce944d
+    m_Address: Button_FlushLeft_Gray
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c4eb6d669673dc44fb11e977556bc91e
+    m_Address: Button_FlushRight_Gray
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6f273ba7ce8f59643a63ad158b2484f5
+    m_Address: InputField02_Navy
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 71da9dd2dd0c4bb4698cbc3f4acfbfbc
+    m_Address: ResourceBar-Group
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fb70e5aae4977d840a055d5349e565b8
+    m_Address: Slider_Basic01_DemoBlue
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5c861a0276e8476428ed577e96720990
+    m_Address: Swich_Single_Off
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d083a0cd33e442645a0787131d18f3c1
+    m_Address: Swich_Single_On
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4d446e95065545246a0d94a1de49b71a
+    m_Address: SettingsItemSound
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5e29fe57a38bc084b83f6d0a959bc4e0
+    m_Address: SettingsItemsVibration
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f4ce3ee10ff10da4ea1efa610a36d22a
+    m_Address: SettingsItemVolume
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b4eeefad9a8a5422f8df65dd79d0332e
+    m_Address: LoadingSpinner
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 45dccf0ab381348a9a6ed505897734e6
+    m_Address: ResourceItemView
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d56e6faace369604796f6e1f4e1afd50
+    m_Address: TextTween
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3f72984ebf8414fe59a9c770b720fbfd
+    m_Address: CoinFlyTween
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 351203dffa3f8af45a69036838e14228
+    m_Address: StarFlyTween
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9c86e2da90f871446b089746905efb8a
+    m_Address: CheckYourConnectionPopup
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9630cfa6367029c439cdb5ad360a393c
+    m_Address: FailPopup
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4058c0cb81e6c9c46ab6df2a4c616d92
+    m_Address: RemoteAssetDownloadPopup
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: eba49fe1687b9e3418f99e9889e75a9f
+    m_Address: WinPopup
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ec8aa6e9117f9144eab8830d6ef84105
+    m_Address: ProjectLifetimeScope
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 7fc1cb6c430fd2b49939501a9bcb9d93, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: b229df17c02dc63468f589200ecff252, type: 2}
+    - {fileID: 11400000, guid: 0558ed199dc86e046b85420d3c7c4623, type: 2}
