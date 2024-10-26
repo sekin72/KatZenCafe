@@ -247,7 +247,7 @@ MonoBehaviour:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
-  _contactDistancePercentage: 0.9
-  _scaleDistancePercentage: 0.2
-  _startScale: 1
-  _endScale: 0.5
+  ContactDistancePercentage: 0.9
+  ScaleDistancePercentage: 0.2
+  StartScale: 1
+  EndScale: 0.5

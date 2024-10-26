@@ -49,4 +49,4 @@ MonoBehaviour:
   m_Script: {fileID: -1678879899, guid: cd75c7ee0fd76fb4195cca947d45f5a6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _rectTransform: {fileID: 2154444687625562315}
+  RectTransform: {fileID: 2154444687625562315}

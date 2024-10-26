@@ -159,7 +159,7 @@ MonoBehaviour:
   Canvas: {fileID: 8115792504876029820}
   Darkinator: {fileID: 7525452434460847410}
   SafeArea: {fileID: 1879989545613332215}
-  _canvasScaler: {fileID: 8115792504876029821}
+  CanvasScaler: {fileID: 8115792504876029821}
 --- !u!1001 &4078694012862473294
 PrefabInstance:
   m_ObjectHideFlags: 0
